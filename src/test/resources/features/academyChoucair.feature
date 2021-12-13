@@ -6,6 +6,6 @@ Feature: Academy Choucair
   Scenario: Search for a automation course
     Given than brandon wants to learn automation at the academy Choucair
     | strUser     | strPassword   |
-    | 16078823    | Choucair2021* |
-    When he search for the course Guías Técnicas on the choucair academy platform
-    Then he finds the course called resources Guías Técnicas - Analista Financial
+    | atamayoz    | Choucair2021* |
+    When he search for the course Metodología Bancolombia on the choucair academy platform
+    Then he finds the course called resources Metodología Bancolombia
